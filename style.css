@@ -22,12 +22,12 @@ h1 {
 	width: 500px;
 	overflow: hidden;
 	transition: background 4s ease-in-out;
-	background-color: lightblue;
+	background-color: green;
 	margin: auto;
 }
 
 .sun-wrapper:hover {
-	background-color: transparent blue;
+	background-color: green;
 }
 
 .sun-wrapper:hover .sun {
@@ -93,7 +93,7 @@ h1 {
 .sun1 {
 	width: 500px;
 	height: 50px;
-	background-color: lightblue;
+	background-color: green;
 	border-radius: 5px;
 	transition-property: background-color, transform; 
 	transition-duration: 5s, 5s;
@@ -115,7 +115,7 @@ h1 {
 .sun3 {
 	width: 500px;
 	height: 50px;
-	background-color: lightblue;
+	background-color: green;
 	border-radius: 5px;
 	transition-property: background-color, transform; 
 	transition-duration: 5s, 5s;
@@ -137,7 +137,7 @@ h1 {
 .sun5 {
 	width: 500px;
 	height: 50px;
-	background-color: lightblue;
+	background-color: green;
 	border-radius: 5px;
 	transition-property: background-color, transform; 
 	transition-duration: 5s, 5s;
@@ -159,7 +159,7 @@ h1 {
 .sun7 {
 	width: 500px;
 	height: 50px;
-	background-color: lightblue;
+	background-color: green;
 	border-radius: 5px;
 	transition-property: background-color, transform; 
 	transition-duration: 5s, 5s;
